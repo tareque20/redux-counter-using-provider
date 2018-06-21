@@ -1,2 +1,13 @@
-# redux-counter-using-provider
-Redux Counter Using Provider
+# Redux Counter App
+Simple Redux Counter Example
+
+# Setup:
+```sh
+$ npm init
+$ npm install
+```
+
+# Run Project:
+```sh
+$ npm start
+```
